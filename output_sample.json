@@ -1,0 +1,98 @@
+{
+  "error_code": 0,
+  "data": [
+    {
+      "id": "'5A0005290",
+      "cn_name": "周志光",
+      "en_name": "",
+      "cn_org": "浙江大学;浙江财经大学",
+      "en_org": "",
+      "date_of_birth": "1937年10月7日",
+      "nationality": "中国",
+      "research_interest": "氢的金属化",
+      "discipline_field": "化学",
+      "title": "教授",
+      "post": "",
+      "department": "",
+      "sex": "男",
+      "nation": "汉族",
+      "native_place": "甘肃会宁",
+      "address": "",
+      "zip_code": "",
+      "fixed_phone": "",
+      "mobile_phone": "",
+      "fax": "",
+      "mail": "",
+      "personal_homepage": "",
+      "introducation": "略",
+      "work_experience": [
+        {
+          "cn_work_org": "复旦大学",
+          "en_work_org": "",
+          "work_title": "教授",
+          "work_post": "",
+          "work_entry_time": "2009年12月",
+          "work_departure_time": "2012年12月",
+          "work_department": "物理系",
+          "work_technical_field": "",
+          "work_content": ""
+        },
+        {
+          "cn_work_org": "交通大学",
+          "en_work_org": "",
+          "work_title": "",
+          "work_post": "计算机学院院长",
+          "work_entry_time": "2015年12月",
+          "work_departure_time": "",
+          "work_department": "计算机学院",
+          "work_technical_field": "",
+          "work_content": ""
+        }
+      ],
+      "edu_experience": [
+        {
+          "cn_graduate_school": "普林斯顿大学",
+          "en_graduate_school": "",
+          "enroll_year": "1994年",
+          "graduate_year": "1998年",
+          "faculty": "电子工程系",
+          "major": "微电子",
+          "academic_degree": "学士",
+          "education": "本科"
+        },
+        {
+          "cn_graduate_school": "普林斯顿大学",
+          "en_graduate_school": "",
+          "enroll_year": "1998年",
+          "graduate_year": "2000年",
+          "faculty": "电子工程系",
+          "major": "微电子",
+          "academic_degree": "硕士",
+          "education": ""
+        }
+      ],
+      "award_experience": [
+        {
+          "award_name": "诺贝尔化学奖",
+          "award_year": "2012年",
+          "award_level": "",
+          "award_org": "",
+          "award_place": "",
+          "award_grade": "",
+          "award_type": "",
+          "award_category": "诺贝尔奖"
+        },
+        {
+          "award_name": "上海市曙光学者",
+          "award_year": "2015年",
+          "award_level": "省级",
+          "award_org": "",
+          "award_place": "上海市",
+          "award_grade": "",
+          "award_type": "荣誉",
+          "award_category": "曙光学者"
+        }
+      ]
+    }
+  ]
+}
